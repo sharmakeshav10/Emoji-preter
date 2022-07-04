@@ -1,2 +1,2 @@
 # Emoji-preter
-Created with CodeSandbox
+Let's crack the emoji language together with the help of this emoji interpreter.
